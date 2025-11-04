@@ -1,0 +1,152 @@
+[
+  {
+    "year": 2013,
+    "title": "Rush",
+    "info": {
+      "directors": ["Ron Howard"],
+      "release_date": "2013-09-02T00:00:00Z",
+      "rating": 8.3,
+      "genres": ["Action", "Biography", "Drama", "Sport"],
+      "image_url": "http://ia.media-imdb.com/images/N/O9ERWAU7FS797AJ7LU8HN09AMUP908RLlo5JF90EWR7LJKQ7@@._V1_SX400_.jpg",
+      "plot": "A re-creation of the merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+      "rank": 2,
+      "running_time_secs": 7380,
+      "actors": ["Daniel Bruhl", "Chris Hemsworth", "Olivia Wilde"]
+    }
+  },
+  {
+    "year": 2013,
+    "title": "Prisoners",
+    "info": {
+      "directors": ["Denis Villeneuve"],
+      "release_date": "2013-08-30T00:00:00Z",
+      "rating": 8.2,
+      "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX400_.jpg",
+      "plot": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+      "rank": 3,
+      "running_time_secs": 9180,
+      "actors": ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis"]
+    }
+  },
+  {
+    "year": 2013,
+    "title": "The Hunger Games: Catching Fire",
+    "info": {
+      "directors": ["Francis Lawrence"],
+      "release_date": "2013-11-11T00:00:00Z",
+      "rating": 7.6,
+      "genres": ["Action", "Adventure", "Mystery", "Sci-Fi", "Thriller"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX400_.jpg",
+      "plot": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+      "rank": 4,
+      "running_time_secs": 8760,
+      "actors": ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth"]
+    }
+  },
+  {
+    "year": 2014,
+    "title": "Guardians of the Galaxy",
+    "info": {
+      "directors": ["James Gunn"],
+      "release_date": "2014-07-21T00:00:00Z",
+      "rating": 8.1,
+      "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX400_.jpg",
+      "plot": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+      "rank": 1,
+      "running_time_secs": 7260,
+      "actors": ["Chris Pratt", "Vin Diesel", "Bradley Cooper", "Zoe Saldana"]
+    }
+  },
+  {
+    "year": 2014,
+    "title": "Interstellar",
+    "info": {
+      "directors": ["Christopher Nolan"],
+      "release_date": "2014-10-26T00:00:00Z",
+      "rating": 8.6,
+      "genres": ["Adventure", "Drama", "Sci-Fi"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX400_.jpg",
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "rank": 2,
+      "running_time_secs": 10140,
+      "actors": ["Ellen Burstyn", "Matthew McConaughey", "Mackenzie Foy", "John Lithgow"]
+    }
+  },
+  {
+    "year": 2015,
+    "title": "Mad Max: Fury Road",
+    "info": {
+      "directors": ["George Miller"],
+      "release_date": "2015-05-07T00:00:00Z",
+      "rating": 8.1,
+      "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_SX400_.jpg",
+      "plot": "A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.",
+      "rank": 1,
+      "running_time_secs": 7200,
+      "actors": ["Tom Hardy", "Charlize Theron", "Hugh Keays-Byrne", "Nicholas Hoult"]
+    }
+  },
+  {
+    "year": 2016,
+    "title": "Arrival",
+    "info": {
+      "directors": ["Denis Villeneuve"],
+      "release_date": "2016-10-07T00:00:00Z",
+      "rating": 7.9,
+      "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX400_.jpg",
+      "plot": "A linguist is recruited by the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.",
+      "rank": 2,
+      "running_time_secs": 6960,
+      "actors": ["Amy Adams", "Jeremy Renner", "Forest Whitaker"]
+    }
+  },
+  {
+    "year": 2017,
+    "title": "Blade Runner 2049",
+    "info": {
+      "directors": ["Denis Villeneuve"],
+      "release_date": "2017-09-22T00:00:00Z",
+      "rating": 8.0,
+      "genres": ["Action", "Drama", "Mystery", "Sci-Fi", "Thriller"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX400_.jpg",
+      "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+      "rank": 1,
+      "running_time_secs": 9840,
+      "actors": ["Harrison Ford", "Ryan Gosling", "Ana de Armas"]
+    }
+  },
+  {
+    "year": 2018,
+    "title": "Black Panther",
+    "info": {
+      "directors": ["Ryan Coogler"],
+      "release_date": "2018-01-29T00:00:00Z",
+      "rating": 7.3,
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX400_.jpg",
+      "plot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+      "rank": 3,
+      "running_time_secs": 8040,
+      "actors": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"]
+    }
+  },
+  {
+    "year": 2019,
+    "title": "Avengers: Endgame",
+    "info": {
+      "directors": ["Anthony Russo", "Joe Russo"],
+      "release_date": "2019-04-22T00:00:00Z",
+      "rating": 8.4,
+      "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+      "image_url": "http://ia.media-imdb.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX400_.jpg",
+      "plot": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "rank": 1,
+      "running_time_secs": 10860,
+      "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth"]
+    }
+  }
+]

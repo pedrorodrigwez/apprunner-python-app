@@ -1,11 +1,15 @@
 from decimal import Decimal
 import json
 import boto3
+import os
 
 
 def load_movies(movies):
-    dynamodb = boto3.resource('dynamodb')
+    # Especificar región por defecto si no está configurada
+    region = os.environ.get('AWS_DEFAULT_REGION', 'us-east-1')
+    dynamodb = boto3.resource('dynamodb', region_name=region)
     table = dynamodb.Table('Movies')
+    
     for movie in movies:
         year = int(movie['year'])
         title = movie['title']
